@@ -1,2 +1,2 @@
 # hausdorffForPointClouds
-Computes Hausdorff distance between given two point clouds
+Computes Hausdorff distance between two point clouds
